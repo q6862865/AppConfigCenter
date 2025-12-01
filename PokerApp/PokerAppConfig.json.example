@@ -1,0 +1,18 @@
+{
+  "app": {
+    "name": "PokerApp",
+    "minSupportedVersion": "1.0.0",
+    "forceUpdate": true,
+    "updateUrl": "https://example.com/pokerapp/download",
+    "updateMessage": {
+        "en": "New version available, please update now.",
+        "zh-Hans": "发现新版本，请立即更新"
+      }
+  },
+  "contents": {
+      "settingMessage": {
+        "en": "welcome to the Poker AI Companion!",
+        "zh-Hans": "欢迎体验德扑 AI 伴侣！"
+      }
+  }
+}
