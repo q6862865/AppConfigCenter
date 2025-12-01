@@ -1,17 +1,16 @@
 {
   "app": {
     "name": "PokerApp",
-    "minSupportedVersion": "1.0.0",
+    "minSupportedVersion": "1.0.1",
     "forceUpdate": true,
     "updateUrl": "https://example.com/pokerapp/download",
     "updateMessage": {
-        "en": "xxxx",
+        "en": "xxxxx newversion",
         "zh-Hans": "发现新版本，请立即更新"
       }
   },
   "contents": {
       "settingMessage": {
-        "en": "welcome to the PokerApp!",
         "zh-Hans": "欢迎来到 PokerApp！"
       }
   }
