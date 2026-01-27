@@ -2,7 +2,7 @@
     "app": {
         "name": "Fabubu",
         "latestVersion": "0.1.1",
-        "minSupportedVersion": "0.1.0",
+        "minSupportedVersion": "0.1.1",
         "forceUpdate": false,
         "downloadUrls": [
           { 
