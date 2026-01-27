@@ -1,8 +1,8 @@
 {
     "app": {
         "name": "Fabubu",
-        "latestVersion": "0.1.1",
-        "minSupportedVersion": "0.1.1",
+        "latestVersion": "0.1.0",
+        "minSupportedVersion": "0.1.0",
         "forceUpdate": false,
         "downloadUrls": [
           { 
@@ -14,8 +14,8 @@
             "url": "https://pan.baidu.com" 
           },
           { 
-            "name": "Windows 版", 
-            "url": "https://pan.baidu.com" 
+            "name": "xx版", 
+            "url": "" 
           }
         ],
         "updateMessage": {
