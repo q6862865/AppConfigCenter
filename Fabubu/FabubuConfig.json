@@ -1,17 +1,17 @@
 {
     "app": {
         "name": "Fabubu",
-        "latestVersion": "0.1.0",
-        "minSupportedVersion": "0.1.0",
+        "latestVersion": "0.1.1",
+        "minSupportedVersion": "0.1.1",
         "forceUpdate": false,
         "downloadUrls": [
           { 
             "name": "Github", 
-            "url": "https://github.com/q6862865/Fabubu/releases/latest" 
+            "url": "https://github.com/AIKnightPanda/Fabubu" 
           },
           { 
             "name": "百度网盘", 
-            "url": "https://pan.baidu.com" 
+            "url": "https://pan.baidu.com/s/17OpTgNmtt9h8B6brVQQjjQ?pwd=n7tr" 
           },
           { 
             "name": "xx版", 
